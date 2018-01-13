@@ -1,4 +1,9 @@
-# {{ name }}
+# PreactCli Generated App
+
+Adapted to support Typescript and with [Prect Fluid]() components added.
+
+![App capture](docs/screenshot.png)
+
 
 ## CLI Commands
 
